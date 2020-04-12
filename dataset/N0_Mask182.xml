@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lady</folder>
+	<filename>N0_Mask182.jpg</filename>
+	<path>C:\lady\N0_Mask182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>232</width>
+		<height>217</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No_Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>10</ymin>
+			<xmax>171</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

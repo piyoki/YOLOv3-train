@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no_mask</folder>
+	<filename>N0_Mask084.jpg</filename>
+	<path>/home/ashing/Data_Mask/no_mask/N0_Mask084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>547</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No_Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>58</ymin>
+			<xmax>384</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

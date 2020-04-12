@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mask</folder>
+	<filename>Mask145.jpg</filename>
+	<path>/home/ashing/Data_Mask/mask/Mask145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>329</ymin>
+			<xmax>678</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>
