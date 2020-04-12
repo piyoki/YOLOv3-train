@@ -1,5 +1,5 @@
 export DARKNET=/content/darknet
-export PRJ_PATH=/content/YOLOv3-train/mask
+export PRJ_PATH=/content/YOLOv3-train
 
 cd $DARKNET
 time ./darknet detector train \
