@@ -1,6 +1,6 @@
 ## You can get your <fullpath> by `pwd` command on terminal
 classes= 2
-train = /home/kev/Deep-Learning/YOLOv3-train/mask/train.txt
-valid = /home/kev/Deep-Learning/YOLOv3-train/mask/test.txt
-backup= /home/kev/Deep-Learning/YOLOv3-train/mask/backup
-names = /home/kev/Deep-Learning/YOLOv3-train/mask/mask.names
+train = /content/YOLOv3-train/mask/train.txt
+valid = /content/YOLOv3-train/mask/test.txt
+backup= /content/YOLOv3-train/mask/backup
+names = /content/YOLOv3-train/mask/mask.names
